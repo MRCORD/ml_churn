@@ -4,15 +4,9 @@ import requests
 from utils.functions import *
 
 
-st.title("Telco Customer Churn Project")
+st.write("# Probability of CHURN")
+st.write("This page enables to input data for a hypothetical customer and calculates the probability of churn using the trained model.")
 
-# model = load_model()
-# data = load_data()
-
-# X_train = load_x_y("data/X_train.pkl")
-# X_test = load_x_y("data/X_test.pkl")
-# y_train = load_x_y("data/y_train.pkl")
-# y_test = load_x_y("data/y_test.pkl")
 
 backend_url = "http://backend:8000" 
 

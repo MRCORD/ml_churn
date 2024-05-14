@@ -6,22 +6,11 @@ from utils.functions import *
 # st.set_page_config(
 #     layout="wide")
 
-st.title("Telco Customer Churn Project")
 
-# model = load_model()
-# data = load_data()
+st.write("# Feature Importance")
 
-# X_train = load_x_y("data/X_train.pkl")
-# X_test = load_x_y("data/X_test.pkl")
-# y_train = load_x_y("data/y_train.pkl")
-# y_test = load_x_y("data/y_test.pkl")
+st.write("This page shows the summary of feature importance based on SHAP values.")
 
-# max_tenure = data['tenure'].max()
-# max_monthly_charges = data['MonthlyCharges'].max()
-# max_total_charges = data['TotalCharges'].max()
-
-
-# summary(model, data, X_train, X_test)
 
 backend_url = "http://backend:8000"
 

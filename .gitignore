@@ -1,3 +1,5 @@
 .env
 /churn
 .DS_Store
+docker-instructions
+*.log

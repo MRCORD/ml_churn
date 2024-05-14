@@ -139,8 +139,10 @@ def plot_shap_values(model, explainer, shap_values_cat_train, shap_values_cat_te
         if customer_id in X_test['customerID'].values:
             # Visualize SHAP values for a specific customer
             customer_index = X_test[X_test['customerID'] == customer_id].index[0]
-            fig, ax_2 = plt.subplots(figsize=(6,6), dpi=200)
+            fig, ax_2 = plt.subplots(figsize=(12, 6), dpi=200)
             shap.decision_plot(explainer.expected_value, shap_values_cat_test[customer_index], X_test[X_test['customerID'] == customer_id], link="logit")
+            plt.subplots_adjust(left=0.2)  # Adjust the space on the left side of the plot
+
             return fig
         else:
             logger.error(f"Customer ID {customer_id} does not exist in X_test")
@@ -152,10 +154,12 @@ def plot_shap_values(model, explainer, shap_values_cat_train, shap_values_cat_te
 def display_shap_waterfall_plot(explainer, expected_value, shap_values, feature_names, max_display=20):
     try:
         # Create SHAP waterfall drawing
-        fig, ax = plt.subplots(figsize=(6, 6), dpi=150)
+        fig, ax = plt.subplots(figsize=(12, 6), dpi=150)
         shap.plots._waterfall.waterfall_legacy(expected_value, shap_values, feature_names=feature_names, max_display=max_display, show=False)
         # st.pyplot(fig)
         # plt.close()
+        plt.subplots_adjust(left=0.2)
+        
         return fig
     except Exception as e:
         logger.error(f"An error occurred in display_shap_waterfall_plot(): {e}")

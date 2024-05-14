@@ -23,4 +23,4 @@ class ChurnDataRequest(BaseModel):
     TotalCharges: confloat(ge=0.0)  # Assuming max_total_charges is validated elsewhere
     
 class ShapRequest(BaseModel):
-    customer_id: str = Field('6464-UIAEA', min_length=1, strip_whitespace=True)
+    customer_id: str = Field('0988-JRWWP', min_length=1, strip_whitespace=True)
