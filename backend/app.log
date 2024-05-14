@@ -1,0 +1,95 @@
+2024-05-13 18:49:34,862 - app.views - INFO - Type of X_train: <class 'pandas.core.frame.DataFrame'>
+2024-05-13 18:49:34,970 - app.views - INFO - Type of X_test: <class 'pandas.core.frame.DataFrame'>
+2024-05-13 18:49:34,990 - app.views - INFO - Type of y_train: <class 'pandas.core.series.Series'>
+2024-05-13 18:49:34,994 - app.views - INFO - Type of y_test: <class 'pandas.core.series.Series'>
+2024-05-13 18:49:34,995 - app.views - INFO - Pickles loaded
+2024-05-13 18:49:35,040 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 18:49:41,557 - app.views - INFO - Type of X_train: <class 'pandas.core.frame.DataFrame'>
+2024-05-13 18:49:41,602 - app.views - INFO - Type of X_test: <class 'pandas.core.frame.DataFrame'>
+2024-05-13 18:49:41,608 - app.views - INFO - Type of y_train: <class 'pandas.core.series.Series'>
+2024-05-13 18:49:41,611 - app.views - INFO - Type of y_test: <class 'pandas.core.series.Series'>
+2024-05-13 18:49:41,611 - app.views - INFO - Pickles loaded
+2024-05-13 18:53:06,383 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 18:53:06,386 - app.views - INFO - Pickles loaded
+2024-05-13 18:53:06,713 - app.views - INFO - Model consulted
+2024-05-13 18:53:22,941 - app.views - INFO - Pickles loaded
+2024-05-13 18:53:23,200 - app.views - INFO - Model consulted
+2024-05-13 18:53:42,137 - app.views - INFO - Pickles loaded
+2024-05-13 18:53:42,388 - app.views - INFO - Model consulted
+2024-05-13 18:53:45,842 - app.views - INFO - Pickles loaded
+2024-05-13 18:53:46,048 - app.views - INFO - Model consulted
+2024-05-13 18:55:44,633 - app.views - INFO - Pickles loaded
+2024-05-13 18:55:44,969 - app.views - INFO - Model consulted
+2024-05-13 18:56:03,694 - app.views - INFO - Pickles loaded
+2024-05-13 18:56:03,807 - app.views - INFO - Model consulted
+2024-05-13 18:57:48,819 - app.views - INFO - Pickles loaded
+2024-05-13 18:57:48,931 - app.views - INFO - Model consulted
+2024-05-13 18:57:51,439 - app.views - INFO - SHAP values displayed
+2024-05-13 18:59:03,248 - app.views - INFO - Pickles loaded
+2024-05-13 18:59:03,395 - app.views - INFO - Model consulted
+2024-05-13 18:59:04,188 - app.views - INFO - SHAP values displayed
+2024-05-13 18:59:22,172 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 18:59:24,531 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:00:36,643 - app.views - INFO - SHAP summary displayed
+2024-05-13 19:00:56,956 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:01:08,063 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:01:59,976 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:02:31,207 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:02:32,778 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:02:32,819 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:03:58,033 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:03:58,053 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:04:34,049 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:04:34,070 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:04:56,071 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:04:56,074 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:04:59,224 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:04:59,356 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:05:53,576 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:05:53,611 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:10:21,569 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:10:21,570 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:10:23,839 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:10:23,959 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 19:10:32,109 - app.views - INFO - Pickles loaded
+2024-05-13 19:10:32,270 - app.views - INFO - Model consulted
+2024-05-13 19:10:33,138 - app.views - INFO - SHAP values displayed
+2024-05-13 19:10:37,512 - app.views - INFO - SHAP summary displayed
+2024-05-13 19:10:43,696 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:10:44,162 - app.views - INFO - SHAP summary displayed
+2024-05-13 19:10:55,243 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:10:55,658 - app.views - INFO - SHAP summary displayed
+2024-05-13 19:11:39,354 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:11:39,902 - app.views - INFO - SHAP summary displayed
+2024-05-13 19:51:07,052 - app.views - INFO - Pickles loaded
+2024-05-13 19:51:07,169 - app.views - INFO - Model consulted
+2024-05-13 19:51:07,860 - app.views - INFO - SHAP values displayed
+2024-05-13 19:51:12,279 - app.views - INFO - Pickles loaded
+2024-05-13 19:51:12,387 - app.views - INFO - Model consulted
+2024-05-13 19:51:13,137 - app.views - INFO - SHAP values displayed
+2024-05-13 19:51:17,976 - app.views - INFO - Pickles loaded
+2024-05-13 19:51:18,080 - app.views - INFO - Model consulted
+2024-05-13 19:51:18,744 - app.views - INFO - SHAP values displayed
+2024-05-13 19:51:20,991 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:51:23,130 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 19:51:23,154 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-13 21:22:53,507 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-13 22:31:25,782 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 00:27:40,604 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 01:23:42,152 - app.views - INFO - SHAP summary displayed
+2024-05-14 01:23:45,685 - app.views - INFO - Pickles loaded
+2024-05-14 01:23:45,810 - app.views - INFO - Model consulted
+2024-05-14 01:23:46,707 - app.views - INFO - SHAP values displayed
+2024-05-14 01:23:49,716 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 01:23:51,824 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 01:23:51,843 - app.views - INFO - Churn prediction successful: 0.39808487407645593
+2024-05-14 01:25:00,985 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 01:25:02,427 - app.views - INFO - Max values computed: {'max_tenure': 72, 'max_monthly_charges': 118.75, 'max_total_charges': 8684.8}
+2024-05-14 01:25:02,448 - app.views - INFO - Churn prediction successful: 0.3563915590138037
+2024-05-14 01:25:08,366 - app.views - INFO - Pickles loaded
+2024-05-14 01:25:08,477 - app.views - INFO - Model consulted
+2024-05-14 01:25:09,257 - app.views - INFO - SHAP values displayed
+2024-05-14 01:25:12,128 - app.views - INFO - Pickles loaded
+2024-05-14 01:25:12,240 - app.views - INFO - Model consulted
+2024-05-14 01:25:13,102 - app.views - INFO - SHAP values displayed
+2024-05-14 01:25:20,516 - app.views - INFO - SHAP summary displayed

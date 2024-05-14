@@ -1,0 +1,297 @@
+2024-05-13 18:49:34,861 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:49:34,970 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:49:34,987 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:49:34,994 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:49:35,031 - app.utils - INFO - Data loaded
+2024-05-13 18:49:35,039 - app.utils - INFO - Max values computed
+2024-05-13 18:49:41,557 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:49:41,602 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:49:41,608 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:49:41,610 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:53:06,272 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:06,360 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:06,375 - app.utils - INFO - Data loaded
+2024-05-13 18:53:06,379 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:53:06,382 - app.utils - INFO - Max values computed
+2024-05-13 18:53:06,385 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:53:06,609 - app.utils - INFO - Model loaded
+2024-05-13 18:53:06,639 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:06,733 - app.utils - INFO - Model loaded
+2024-05-13 18:53:06,747 - app.utils - INFO - Data loaded
+2024-05-13 18:53:06,849 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:06,877 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:22,857 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:22,924 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:22,934 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:53:22,940 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:53:23,158 - app.utils - INFO - Model loaded
+2024-05-13 18:53:23,189 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:23,228 - app.utils - INFO - Model loaded
+2024-05-13 18:53:23,263 - app.utils - INFO - Data loaded
+2024-05-13 18:53:23,368 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:23,396 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:42,039 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:42,115 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:42,128 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:53:42,135 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:53:42,317 - app.utils - INFO - Model loaded
+2024-05-13 18:53:42,369 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:42,405 - app.utils - INFO - Model loaded
+2024-05-13 18:53:42,445 - app.utils - INFO - Data loaded
+2024-05-13 18:53:42,561 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:42,595 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:45,763 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:45,823 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:45,833 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:53:45,840 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:53:46,003 - app.utils - INFO - Model loaded
+2024-05-13 18:53:46,032 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:53:46,060 - app.utils - INFO - Model loaded
+2024-05-13 18:53:46,091 - app.utils - INFO - Data loaded
+2024-05-13 18:53:46,189 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:53:46,216 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:55:44,527 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:55:44,612 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:55:44,625 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:55:44,631 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:55:44,903 - app.utils - INFO - Model loaded
+2024-05-13 18:55:44,929 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:55:44,982 - app.utils - INFO - Model loaded
+2024-05-13 18:55:45,039 - app.utils - INFO - Data loaded
+2024-05-13 18:55:45,135 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:55:45,160 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:56:03,635 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:56:03,684 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:56:03,691 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:56:03,693 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:56:03,768 - app.utils - INFO - Model loaded
+2024-05-13 18:56:03,794 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:56:03,817 - app.utils - INFO - Model loaded
+2024-05-13 18:56:03,830 - app.utils - INFO - Data loaded
+2024-05-13 18:56:03,925 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:56:03,950 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:57:48,759 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:57:48,809 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:57:48,816 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:57:48,819 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:57:48,896 - app.utils - INFO - Model loaded
+2024-05-13 18:57:48,923 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:57:48,955 - app.utils - INFO - Model loaded
+2024-05-13 18:57:48,966 - app.utils - INFO - Data loaded
+2024-05-13 18:57:49,063 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:57:49,088 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:57:49,758 - app.utils - INFO - SHAP values calculated
+2024-05-13 18:59:03,192 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:59:03,238 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:59:03,245 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 18:59:03,248 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 18:59:03,361 - app.utils - INFO - Model loaded
+2024-05-13 18:59:03,387 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:59:03,404 - app.utils - INFO - Model loaded
+2024-05-13 18:59:03,425 - app.utils - INFO - Data loaded
+2024-05-13 18:59:03,519 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 18:59:03,544 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 18:59:03,996 - app.utils - INFO - SHAP values calculated
+2024-05-13 18:59:22,170 - app.utils - INFO - Data loaded
+2024-05-13 18:59:22,172 - app.utils - INFO - Max values computed
+2024-05-13 18:59:24,529 - app.utils - INFO - Data loaded
+2024-05-13 18:59:24,530 - app.utils - INFO - Max values computed
+2024-05-13 18:59:24,550 - app.utils - INFO - Model loaded
+2024-05-13 19:00:35,985 - app.utils - INFO - Model loaded
+2024-05-13 19:00:35,997 - app.utils - INFO - Data loaded
+2024-05-13 19:00:36,092 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:00:36,117 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:00:36,566 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:00:36,642 - app.utils - INFO - SHAP summary displayed
+2024-05-13 19:00:36,642 - app.utils - INFO - SHAP summary DONE!
+2024-05-13 19:00:56,954 - app.utils - INFO - Data loaded
+2024-05-13 19:00:56,956 - app.utils - INFO - Max values computed
+2024-05-13 19:01:08,061 - app.utils - INFO - Data loaded
+2024-05-13 19:01:08,063 - app.utils - INFO - Max values computed
+2024-05-13 19:01:08,080 - app.utils - INFO - Model loaded
+2024-05-13 19:01:59,974 - app.utils - INFO - Data loaded
+2024-05-13 19:01:59,976 - app.utils - INFO - Max values computed
+2024-05-13 19:01:59,994 - app.utils - INFO - Model loaded
+2024-05-13 19:02:31,204 - app.utils - INFO - Data loaded
+2024-05-13 19:02:31,206 - app.utils - INFO - Max values computed
+2024-05-13 19:02:32,776 - app.utils - INFO - Data loaded
+2024-05-13 19:02:32,778 - app.utils - INFO - Max values computed
+2024-05-13 19:02:32,797 - app.utils - INFO - Model loaded
+2024-05-13 19:02:32,818 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:03:58,031 - app.utils - INFO - Data loaded
+2024-05-13 19:03:58,033 - app.utils - INFO - Max values computed
+2024-05-13 19:03:58,050 - app.utils - INFO - Model loaded
+2024-05-13 19:03:58,053 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:04:34,047 - app.utils - INFO - Data loaded
+2024-05-13 19:04:34,049 - app.utils - INFO - Max values computed
+2024-05-13 19:04:34,066 - app.utils - INFO - Model loaded
+2024-05-13 19:04:34,069 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:04:56,061 - app.utils - INFO - Data loaded
+2024-05-13 19:04:56,061 - app.utils - INFO - Data loaded
+2024-05-13 19:04:56,071 - app.utils - INFO - Max values computed
+2024-05-13 19:04:56,071 - app.utils - INFO - Max values computed
+2024-05-13 19:04:59,217 - app.utils - INFO - Data loaded
+2024-05-13 19:04:59,223 - app.utils - INFO - Max values computed
+2024-05-13 19:04:59,296 - app.utils - INFO - Model loaded
+2024-05-13 19:04:59,355 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:05:53,570 - app.utils - INFO - Data loaded
+2024-05-13 19:05:53,575 - app.utils - INFO - Max values computed
+2024-05-13 19:05:53,603 - app.utils - INFO - Model loaded
+2024-05-13 19:05:53,610 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:10:21,561 - app.utils - INFO - Data loaded
+2024-05-13 19:10:21,562 - app.utils - INFO - Data loaded
+2024-05-13 19:10:21,569 - app.utils - INFO - Max values computed
+2024-05-13 19:10:21,569 - app.utils - INFO - Max values computed
+2024-05-13 19:10:23,836 - app.utils - INFO - Data loaded
+2024-05-13 19:10:23,838 - app.utils - INFO - Max values computed
+2024-05-13 19:10:23,907 - app.utils - INFO - Model loaded
+2024-05-13 19:10:23,959 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 19:10:32,056 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:10:32,100 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:32,106 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 19:10:32,109 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 19:10:32,223 - app.utils - INFO - Model loaded
+2024-05-13 19:10:32,248 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:32,280 - app.utils - INFO - Model loaded
+2024-05-13 19:10:32,289 - app.utils - INFO - Data loaded
+2024-05-13 19:10:32,382 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:10:32,406 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:32,864 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:10:36,934 - app.utils - INFO - Model loaded
+2024-05-13 19:10:36,948 - app.utils - INFO - Data loaded
+2024-05-13 19:10:37,043 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:10:37,068 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:37,444 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:10:37,512 - app.utils - INFO - SHAP summary displayed
+2024-05-13 19:10:37,512 - app.utils - INFO - SHAP summary DONE!
+2024-05-13 19:10:43,553 - app.utils - INFO - Model loaded
+2024-05-13 19:10:43,564 - app.utils - INFO - Data loaded
+2024-05-13 19:10:43,667 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:10:43,671 - app.utils - INFO - Data loaded
+2024-05-13 19:10:43,688 - app.utils - INFO - Max values computed
+2024-05-13 19:10:43,696 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:44,100 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:10:44,161 - app.utils - INFO - SHAP summary displayed
+2024-05-13 19:10:44,162 - app.utils - INFO - SHAP summary DONE!
+2024-05-13 19:10:55,107 - app.utils - INFO - Model loaded
+2024-05-13 19:10:55,119 - app.utils - INFO - Data loaded
+2024-05-13 19:10:55,219 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:10:55,223 - app.utils - INFO - Data loaded
+2024-05-13 19:10:55,243 - app.utils - INFO - Max values computed
+2024-05-13 19:10:55,243 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:10:55,597 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:10:55,657 - app.utils - INFO - SHAP summary displayed
+2024-05-13 19:10:55,657 - app.utils - INFO - SHAP summary DONE!
+2024-05-13 19:11:39,339 - app.utils - INFO - Model loaded
+2024-05-13 19:11:39,352 - app.utils - INFO - Data loaded
+2024-05-13 19:11:39,352 - app.utils - INFO - Data loaded
+2024-05-13 19:11:39,353 - app.utils - INFO - Max values computed
+2024-05-13 19:11:39,442 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:11:39,466 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:11:39,799 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:11:39,902 - app.utils - INFO - SHAP summary displayed
+2024-05-13 19:11:39,902 - app.utils - INFO - SHAP summary DONE!
+2024-05-13 19:51:07,000 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:07,043 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:07,049 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 19:51:07,051 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 19:51:07,136 - app.utils - INFO - Model loaded
+2024-05-13 19:51:07,161 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:07,179 - app.utils - INFO - Model loaded
+2024-05-13 19:51:07,191 - app.utils - INFO - Data loaded
+2024-05-13 19:51:07,282 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:07,306 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:07,680 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:51:12,230 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:12,271 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:12,276 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 19:51:12,278 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 19:51:12,356 - app.utils - INFO - Model loaded
+2024-05-13 19:51:12,380 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:12,397 - app.utils - INFO - Model loaded
+2024-05-13 19:51:12,407 - app.utils - INFO - Data loaded
+2024-05-13 19:51:12,498 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:12,522 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:12,889 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:51:17,926 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:17,968 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:17,973 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-13 19:51:17,975 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-13 19:51:18,049 - app.utils - INFO - Model loaded
+2024-05-13 19:51:18,073 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:18,090 - app.utils - INFO - Model loaded
+2024-05-13 19:51:18,099 - app.utils - INFO - Data loaded
+2024-05-13 19:51:18,191 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-13 19:51:18,215 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-13 19:51:18,581 - app.utils - INFO - SHAP values calculated
+2024-05-13 19:51:20,989 - app.utils - INFO - Data loaded
+2024-05-13 19:51:20,991 - app.utils - INFO - Max values computed
+2024-05-13 19:51:23,128 - app.utils - INFO - Data loaded
+2024-05-13 19:51:23,130 - app.utils - INFO - Max values computed
+2024-05-13 19:51:23,150 - app.utils - INFO - Model loaded
+2024-05-13 19:51:23,154 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-13 21:22:53,502 - app.utils - INFO - Data loaded
+2024-05-13 21:22:53,506 - app.utils - INFO - Max values computed
+2024-05-13 22:31:25,780 - app.utils - INFO - Data loaded
+2024-05-13 22:31:25,782 - app.utils - INFO - Max values computed
+2024-05-14 00:27:40,599 - app.utils - INFO - Data loaded
+2024-05-14 00:27:40,603 - app.utils - INFO - Max values computed
+2024-05-14 01:23:41,508 - app.utils - INFO - Model loaded
+2024-05-14 01:23:41,541 - app.utils - INFO - Data loaded
+2024-05-14 01:23:41,638 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:23:41,663 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:23:42,073 - app.utils - INFO - SHAP values calculated
+2024-05-14 01:23:42,152 - app.utils - INFO - SHAP summary displayed
+2024-05-14 01:23:42,152 - app.utils - INFO - SHAP summary DONE!
+2024-05-14 01:23:45,634 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:23:45,677 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:23:45,683 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-14 01:23:45,685 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-14 01:23:45,778 - app.utils - INFO - Model loaded
+2024-05-14 01:23:45,803 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:23:45,820 - app.utils - INFO - Model loaded
+2024-05-14 01:23:45,830 - app.utils - INFO - Data loaded
+2024-05-14 01:23:45,923 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:23:45,949 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:23:46,330 - app.utils - INFO - SHAP values calculated
+2024-05-14 01:23:49,714 - app.utils - INFO - Data loaded
+2024-05-14 01:23:49,715 - app.utils - INFO - Max values computed
+2024-05-14 01:23:51,822 - app.utils - INFO - Data loaded
+2024-05-14 01:23:51,824 - app.utils - INFO - Max values computed
+2024-05-14 01:23:51,840 - app.utils - INFO - Model loaded
+2024-05-14 01:23:51,843 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-14 01:25:00,969 - app.utils - INFO - Data loaded
+2024-05-14 01:25:00,984 - app.utils - INFO - Max values computed
+2024-05-14 01:25:02,425 - app.utils - INFO - Data loaded
+2024-05-14 01:25:02,427 - app.utils - INFO - Max values computed
+2024-05-14 01:25:02,443 - app.utils - INFO - Model loaded
+2024-05-14 01:25:02,447 - app.utils - INFO - Churn probability calculated: 0.3563915590138037
+2024-05-14 01:25:08,316 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:25:08,358 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:08,364 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-14 01:25:08,366 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-14 01:25:08,443 - app.utils - INFO - Model loaded
+2024-05-14 01:25:08,469 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:08,487 - app.utils - INFO - Model loaded
+2024-05-14 01:25:08,497 - app.utils - INFO - Data loaded
+2024-05-14 01:25:08,662 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:25:08,698 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:09,077 - app.utils - INFO - SHAP values calculated
+2024-05-14 01:25:12,076 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:25:12,119 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:12,125 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-14 01:25:12,127 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-14 01:25:12,207 - app.utils - INFO - Model loaded
+2024-05-14 01:25:12,233 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:12,250 - app.utils - INFO - Model loaded
+2024-05-14 01:25:12,260 - app.utils - INFO - Data loaded
+2024-05-14 01:25:12,353 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:25:12,378 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:12,854 - app.utils - INFO - SHAP values calculated
+2024-05-14 01:25:19,938 - app.utils - INFO - Model loaded
+2024-05-14 01:25:19,949 - app.utils - INFO - Data loaded
+2024-05-14 01:25:20,042 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 01:25:20,067 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 01:25:20,447 - app.utils - INFO - SHAP values calculated
+2024-05-14 01:25:20,515 - app.utils - INFO - SHAP summary displayed
+2024-05-14 01:25:20,515 - app.utils - INFO - SHAP summary DONE!

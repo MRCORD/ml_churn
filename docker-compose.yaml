@@ -1,0 +1,35 @@
+version: "3.8"
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "8501:8501"
+    networks:
+      - AIservice
+    depends_on:
+      - backend
+    env_file:
+      - .env  # Assuming .env is located at the root of your project directory
+    volumes:
+      - ./frontend:/app
+      - ./data:/data  # Mounting /data directoryx
+      - ./model:/model  # Mounting /model directory
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    networks:
+      - AIservice
+    env_file:
+      - .env  # Assuming .env is located at the root of your project directory
+    volumes:
+      - ./backend:/app
+      # - ./data:/data  # Mounting /data directory
+      # - ./model:/model  # Mounting /model directory
+
+networks:
+  AIservice:
+    driver: bridge
