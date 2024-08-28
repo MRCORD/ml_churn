@@ -44,3 +44,5 @@ jobs:
           push: true
           platforms: linux/amd64
           tags: ghcr.io/mrcord/ml_churn/ml_churn-frontend:latest
+
+          ##############################################
