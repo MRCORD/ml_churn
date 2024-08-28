@@ -712,3 +712,91 @@
 2024-05-14 02:47:53,109 - app.utils - INFO - Data loaded from data/X_train.pkl
 2024-05-14 02:47:53,136 - app.utils - INFO - Data loaded from data/X_test.pkl
 2024-05-14 02:47:53,691 - app.utils - INFO - SHAP values calculated
+2024-05-14 03:09:45,408 - app.utils - INFO - Model loaded
+2024-05-14 03:09:45,648 - app.utils - INFO - Data loaded
+2024-05-14 03:09:45,730 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 03:09:45,752 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:46,240 - app.utils - INFO - SHAP values calculated
+2024-05-14 03:09:46,326 - app.utils - INFO - SHAP summary displayed
+2024-05-14 03:09:46,326 - app.utils - INFO - SHAP summary DONE!
+2024-05-14 03:09:48,095 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 03:09:48,130 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:48,137 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-14 03:09:48,139 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-14 03:09:48,232 - app.utils - INFO - Model loaded
+2024-05-14 03:09:48,253 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:48,278 - app.utils - INFO - Model loaded
+2024-05-14 03:09:48,287 - app.utils - INFO - Data loaded
+2024-05-14 03:09:48,362 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 03:09:48,383 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:48,760 - app.utils - INFO - SHAP values calculated
+2024-05-14 03:09:50,494 - app.utils - INFO - Data loaded
+2024-05-14 03:09:50,496 - app.utils - INFO - Max values computed
+2024-05-14 03:09:52,017 - app.utils - INFO - Data loaded
+2024-05-14 03:09:52,019 - app.utils - INFO - Max values computed
+2024-05-14 03:09:52,038 - app.utils - INFO - Model loaded
+2024-05-14 03:09:52,051 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-05-14 03:09:57,545 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 03:09:57,581 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:57,586 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-05-14 03:09:57,588 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-05-14 03:09:57,653 - app.utils - INFO - Model loaded
+2024-05-14 03:09:57,674 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:57,690 - app.utils - INFO - Model loaded
+2024-05-14 03:09:57,697 - app.utils - INFO - Data loaded
+2024-05-14 03:09:57,777 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-05-14 03:09:57,798 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-05-14 03:09:58,127 - app.utils - INFO - SHAP values calculated
+2024-05-21 21:09:46,613 - app.utils - INFO - Data loaded
+2024-05-21 21:09:46,625 - app.utils - INFO - Max values computed
+2024-08-28 14:06:35,589 - app.utils - INFO - Model loaded
+2024-08-28 14:06:35,921 - app.utils - INFO - Data loaded
+2024-08-28 14:06:35,926 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:06:39,357 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:06:42,217 - app.utils - INFO - Data loaded
+2024-08-28 14:06:42,231 - app.utils - INFO - Max values computed
+2024-08-28 14:06:44,304 - app.utils - INFO - Data loaded
+2024-08-28 14:06:44,306 - app.utils - INFO - Max values computed
+2024-08-28 14:06:44,324 - app.utils - INFO - Model loaded
+2024-08-28 14:06:44,380 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-08-28 14:06:47,426 - app.utils - INFO - Model loaded
+2024-08-28 14:06:47,441 - app.utils - INFO - Data loaded
+2024-08-28 14:06:47,444 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:06:48,925 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:13:19,278 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:13:19,279 - app.utils - ERROR - An error occurred in load_x_y(): Can't get attribute '_unpickle_block' on <module 'pandas._libs.internals' from '/usr/local/lib/python3.10/site-packages/pandas/_libs/internals.cpython-310-x86_64-linux-gnu.so'>
+2024-08-28 14:18:14,439 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-08-28 14:18:14,486 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:14,492 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-08-28 14:18:14,495 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-08-28 14:18:14,650 - app.utils - INFO - Model loaded
+2024-08-28 14:18:14,677 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:14,769 - app.utils - INFO - Model loaded
+2024-08-28 14:18:15,044 - app.utils - INFO - Data loaded
+2024-08-28 14:18:15,136 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-08-28 14:18:15,161 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:15,648 - app.utils - INFO - SHAP values calculated
+2024-08-28 14:18:32,332 - app.utils - INFO - Model loaded
+2024-08-28 14:18:32,350 - app.utils - INFO - Data loaded
+2024-08-28 14:18:32,454 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-08-28 14:18:32,478 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:32,880 - app.utils - INFO - SHAP values calculated
+2024-08-28 14:18:32,956 - app.utils - INFO - SHAP summary displayed
+2024-08-28 14:18:32,956 - app.utils - INFO - SHAP summary DONE!
+2024-08-28 14:18:35,804 - app.utils - INFO - Data loaded
+2024-08-28 14:18:35,818 - app.utils - INFO - Max values computed
+2024-08-28 14:18:38,382 - app.utils - INFO - Data loaded
+2024-08-28 14:18:38,384 - app.utils - INFO - Max values computed
+2024-08-28 14:18:38,399 - app.utils - INFO - Model loaded
+2024-08-28 14:18:38,410 - app.utils - INFO - Churn probability calculated: 0.39808487407645593
+2024-08-28 14:18:40,218 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-08-28 14:18:40,306 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:40,313 - app.utils - INFO - Data loaded from data/y_train.pkl
+2024-08-28 14:18:40,316 - app.utils - INFO - Data loaded from data/y_test.pkl
+2024-08-28 14:18:40,391 - app.utils - INFO - Model loaded
+2024-08-28 14:18:40,416 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:40,435 - app.utils - INFO - Model loaded
+2024-08-28 14:18:40,445 - app.utils - INFO - Data loaded
+2024-08-28 14:18:40,537 - app.utils - INFO - Data loaded from data/X_train.pkl
+2024-08-28 14:18:40,561 - app.utils - INFO - Data loaded from data/X_test.pkl
+2024-08-28 14:18:40,953 - app.utils - INFO - SHAP values calculated
