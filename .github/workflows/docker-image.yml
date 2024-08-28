@@ -39,8 +39,8 @@ jobs:
       - name: Build and push frontend image
         uses: docker/build-push-action@v2
         with:
-          context: ./frontend/app
-          file: ./frontend/app/Dockerfile
+          context: ./frontend
+          file: ./frontend/Dockerfile
           push: true
           platforms: linux/amd64
           tags: ghcr.io/mrcord/ml_churn/ml_churn-frontend:latest
